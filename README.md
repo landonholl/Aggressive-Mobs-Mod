@@ -8,7 +8,7 @@ Aggressive Mobs is a Minecraft Forge mod for **1.20.1** that dramatically increa
 
 - On configurable "siege days," all monsters listed on the siege whitelist automatically target the nearest player or villager. The mod adds a global speed boost to mobs and forces them to continuously retarget the nearest player.
 - Monsters will even continue targeting players while underground or across large distances.
-- You can adjust how frequently sieges occur and which entities participate via `aggressive-mobs-config.toml` (e.g., daily, weekly, etc.).
+- You can adjust how frequently sieges occur and which entities participate via `aggressive-mobs-config.toml` (daily, weekly, etc.).
 
 ### Enhanced Zombies
 
@@ -16,7 +16,7 @@ Aggressive Mobs is a Minecraft Forge mod for **1.20.1** that dramatically increa
 - Digging and block-breaking. Zombies are capable of digging through blocks to reach the player. If their navigation path is obstructed, they will swing and break two-high tunnels or obstacles around them. You can configure how far away they begin digging and which blocks are immune via a blacklist.
 - Building bridges and pillars. Zombies can place cobblestone to bridge over gaps and build upwards toward high-ground players. They place blocks under themselves, climb up, snap to the block center and continue chasing.
 - TNT placement and fire-setting. A zombie near a player may drop TNT on the ground with a configurable chance and distance. Zombies and piglins can also light adjacent flammable blocks on fire when close to a target.
-- Duplication (swarming). Certain monsters (e.g., zombies, skeletons, blazes, endermen, ravagers and others) can duplicate themselves on spawn. When duplication is enabled, the mod clones the mob at random nearby positions. Dungeons and spawners can generate even more clones.
+- Duplication (swarming). Certain monsters (zombies, skeletons, blazes, endermen, ravagers and others) can duplicate themselves on spawn. When duplication is enabled, the mod clones the mob at random nearby positions. Dungeons and spawners can generate even more clones.
 - Jockey mobs and rideable mounts. Enemies may spawn riding animals such as pigs, chickens or spiders. Both the list of rideable mobs and the jockeying mobs are configurable.
 - Bloodlust and angry variants. Some mobs (hoglins, husks, zombies, zombified piglins, etc.) can spawn with a "bloodlust" effect, increasing their maximum health by 50% and giving them a speed boost and health-boost potion effect.
 
@@ -71,4 +71,4 @@ All of these features are controlled through the `aggressive-mobs-config.toml` f
 
 ## Credits
 
-Aggressive Mobs is developed by birdsprime. It is released under the All Rights Reserved license. Feel free to submit issues or suggestions on the GitHub repository.
+Aggressive Mobs is developed by Landon Holland (birdsprime on Curseforge). It is released under the All Rights Reserved license. Feel free to submit issues or suggestions on the GitHub repository.
